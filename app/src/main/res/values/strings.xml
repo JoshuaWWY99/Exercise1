@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="interest_rate">Interest rate</string>
+    <string name="enter_loan_period_year">Enter loan period (year)</string>
+    <string name="enter_down_payment">Enter down payment</string>
+    <string name="enter_car_price">Enter car price</string>
+    <string name="done">Done</string>
+    <string name="textview">TextView</string>
+</resources>
